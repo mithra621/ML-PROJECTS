@@ -1,6 +1,9 @@
 # 📊 Student Performance Analysis
 
 An end-to-end **Exploratory Data Analysis (EDA)** project built using **Python** to analyze student performance data. This project explores student scores, visualizes important trends, preprocesses the dataset, and generates meaningful insights using data analysis techniques.
+## 🚀 Live Demo
+
+https://studentperformance-analysis.streamlit.app/
 
 ---
 
